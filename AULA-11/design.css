@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'TOPS'; /* O nome que você quiser dar */
+    src: url('Top\ Secret.ttf') format('truetype'); /* Caminho do arquivo */
+}
+
+@font-face {
+    font-family: 'LL'; /* O nome que você quiser dar */
+    src: url('LLCOOPER.TTF') format('truetype'); /* Caminho do arquivo */
+}
+
+@font-face {
+    font-family: 'GIMME'; /* O nome que você quiser dar */
+    src: url('Gimme\ Danger.ttf') format('truetype'); /* Caminho do arquivo */
+}
+
+h1{
+    font-family: 'TOPS','sans-serif';
+    font-size: 50px;
+}
+
+h2{
+    font-family: 'GIMME','sans-serif';
+}
+
+p{
+    font-family: 'LL','sans-serif';
+}
